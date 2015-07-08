@@ -1,0 +1,42 @@
+﻿body.font-size{
+            font-size:18px;
+        }
+#divcenter{
+            margin-top:150px;
+        }
+#col-md-border{
+            border:1px solid gray;
+        }
+.containerborder{
+    margin-top:150px;
+    margin-bottom:150px;
+}
+#imgborder{
+    border:1px solid gray;
+    width:200px;
+    height:200px;
+}
+.a-style{
+    font-size:16px;
+}
+.auto-style1 {
+            height: 689px;
+        }
+#container_border{
+    margin-top:100px;
+    margin-bottom:150px;
+}
+.divborder{
+	border:1px solid gray;
+}
+.divtable{
+	border:1px solid gray;
+	height:400px;
+}
+.pageapart td{
+padding-left:6px;
+padding-right:6px;
+}
+.divright{
+float:right;
+}
